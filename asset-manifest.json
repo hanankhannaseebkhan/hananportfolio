@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hananportfolio/static/css/main.666cf7a1.css",
+    "main.js": "/hananportfolio/static/js/main.693a3261.js",
+    "static/media/me.png": "/hananportfolio/static/media/me.ba4a6537d737aae0d5de.png",
+    "static/media/code2.png": "/hananportfolio/static/media/code2.991831d0a626b3b8e8b3.png",
+    "index.html": "/hananportfolio/index.html",
+    "main.666cf7a1.css.map": "/hananportfolio/static/css/main.666cf7a1.css.map",
+    "main.693a3261.js.map": "/hananportfolio/static/js/main.693a3261.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666cf7a1.css",
+    "static/js/main.693a3261.js"
+  ]
+}
